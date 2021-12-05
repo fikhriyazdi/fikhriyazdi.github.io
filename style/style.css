@@ -132,8 +132,8 @@ body {
   position: center;
   /* transform: scale(0.1); */
   top: -35%;
-  width: 450px;
-  height: 450px;
+  width: 250px;
+  height: 250px;
 }
 
 .baloons img {
@@ -288,7 +288,6 @@ body {
   .six .hat {
     /* top: -20px; */
     width: 50px;
-
   }
 
   .wish-hbd {
